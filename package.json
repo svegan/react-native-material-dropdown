@@ -43,6 +43,6 @@
     "prop-types": "^15.5.9",
     "react-native-material-buttons": "^0.5.0",
     "react-native-material-ripple": "^0.8.0",
-    "react-native-material-textfield": "^0.12.0"
+    "react-native-material-textfield": "n4kz/react-native-material-textfield#729008b847eb38129d0b886e98253d4c11f6d4d3"
   }
 }
